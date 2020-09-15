@@ -1,0 +1,26 @@
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.exe
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.deps.json
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.runtimeconfig.json
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.dll
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.pdb
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.AssemblyInfo.cs
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.dll
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.pdb
+C:\Users\PC\source\repos\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.genruntimeconfig.cache
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.exe
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.deps.json
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.runtimeconfig.json
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.runtimeconfig.dev.json
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.dll
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\bin\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.pdb
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.csprojAssemblyReference.cache
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.AssemblyInfoInputs.cache
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.AssemblyInfo.cs
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.csproj.CoreCompileInputs.cache
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.dll
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.pdb
+E:\BT C#\CacDoiTuongHinhHoc\CacDoiTuongHinhHoc\obj\Debug\netcoreapp3.1\CacDoiTuongHinhHoc.genruntimeconfig.cache
